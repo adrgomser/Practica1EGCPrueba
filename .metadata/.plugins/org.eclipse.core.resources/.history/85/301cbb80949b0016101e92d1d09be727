@@ -1,0 +1,13 @@
+package com.adri1711.egc;
+
+import static org.junit.Assert.*;
+public class Practica1 {
+
+	
+	public void testSum2Num(){
+		assertEquals(6,sum(2,4));
+	}
+	public int sum(int i, int n){
+		return 5;
+	}
+}
